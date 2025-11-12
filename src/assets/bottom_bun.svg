@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="480"
+   height="143.99998"
+   viewBox="0 0 480 143.99998"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g18">
+      <g
+         id="g11" />
+      <g
+         id="g10" />
+      <g
+         id="g13"
+         transform="rotate(-90,72.005001,72)" />
+      <g
+         id="g16"
+         transform="rotate(90,408.00499,72.000005)" />
+      <path
+         id="rect19"
+         style="display:inline;fill:#fac48a;stroke-width:6.40792"
+         transform="rotate(90)"
+         d="M 0,-432 H 9.6000004 V -48 H 0 Z m 134.39999,0 h 9.6 v 384 h -9.6 z M 115.2,-470.405 v 9.6 H 96.000005 v -9.6 z m 19.20001,38.40001 h -9.6 V -451.205 h 9.6 z M 124.8,-460.805 v 9.6 h -9.6 v -9.6 z m 9.6,432 h -9.6 v -19.200001 h 9.6 z M 96,-9.6049995 V -19.205 h 19.2 v 9.6000005 z m 28.8,-9.6000025 h -9.6 v -9.6 h 9.6 z M 9.5999985,-451.20499 h 9.6000005 v 19.2 H 9.5999985 Z M 48,-470.405 v 9.6 H 28.799999 v -9.6 z m -28.800001,9.60001 h 9.6 v 9.6 h -9.6 z m 9.6,451.1999905 V -19.205 H 48 v 9.6000005 z M 9.5999985,-48.005001 H 19.199999 V -28.805 H 9.5999985 Z M 19.200001,-19.205 v -9.6 h 9.6 v 9.6 z M 48,-1.0728836e-7 V -9.6000005 H 96 V -1.0728836e-7 Z M 48,-470.39999 v -9.6 h 48 v 9.6 z" />
+    </g>
+    <g
+       id="g23">
+      <path
+         id="rect33"
+         style="display:inline;fill:#fadea6;stroke-width:6.40792"
+         transform="rotate(90)"
+         d="m 124.8,-432 h 9.6 v 384 h -9.6 z m -9.6,-19.19998 h 9.6 v 422.399992 h -9.6 z m -9.6,-9.60004 h 9.6 v 441.600008 h -9.6 z m -9.6,0 h 9.6 V -19.200012 H 96 Z m -9.599998,-9.59997 h 9.6 V -9.6000061 h -9.6 z m -9.599999,0 h 9.6 V -9.6000061 h -9.6 z m -9.600006,0 h 9.6 V -9.6000061 h -9.6 z m -47.999996,19.20001 h 9.6 v 422.399992 h -9.6 z m 9.599998,-9.60004 H 38.4 v 441.600008 h -9.600001 z m 9.600003,0 h 9.6 v 441.600008 h -9.6 z M 48,-470.39999 h 9.6 V -9.6000061 H 48 Z m 9.599998,0 h 9.600001 V -9.6000061 h -9.600001 z" />
+    </g>
+    <g
+       id="g21">
+      <path
+         id="rect21"
+         style="display:inline;fill:#fff0c8;stroke-width:6.24567"
+         transform="rotate(90)"
+         d="M 28.799999,-422.39999 H 38.4 V -57.600006 H 28.799999 Z M 19.200001,-432 h 9.6 v 384 h -9.6 z m -9.6000006,0 H 19.200001 V -48 H 9.6000004 Z" />
+    </g>
+  </g>
+</svg>
